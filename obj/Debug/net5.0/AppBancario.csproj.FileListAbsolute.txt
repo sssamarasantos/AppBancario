@@ -1,0 +1,16 @@
+C:\workspace\AppBancario\bin\Debug\net5.0\AppBancario.exe
+C:\workspace\AppBancario\bin\Debug\net5.0\AppBancario.deps.json
+C:\workspace\AppBancario\bin\Debug\net5.0\AppBancario.runtimeconfig.json
+C:\workspace\AppBancario\bin\Debug\net5.0\AppBancario.runtimeconfig.dev.json
+C:\workspace\AppBancario\bin\Debug\net5.0\AppBancario.dll
+C:\workspace\AppBancario\bin\Debug\net5.0\ref\AppBancario.dll
+C:\workspace\AppBancario\bin\Debug\net5.0\AppBancario.pdb
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.csprojAssemblyReference.cache
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.AssemblyInfoInputs.cache
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.AssemblyInfo.cs
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.csproj.CoreCompileInputs.cache
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.dll
+C:\workspace\AppBancario\obj\Debug\net5.0\ref\AppBancario.dll
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.pdb
+C:\workspace\AppBancario\obj\Debug\net5.0\AppBancario.genruntimeconfig.cache
